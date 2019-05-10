@@ -1,0 +1,7 @@
+monday=["python","cn","PYTHONLAB","os","wt","PYTHONLAB" ,"PYTHONLAB"]
+tuesday=["cn","cn", "os","wt","DBLAB", "DBLAB","DBLAB"]
+wedday={"python","java","cn","os","wt","dbms","dbms"]
+thursday=["python","java","cn","os","wt","wt","dbms"]
+friday=["python","java","cn","os","wt","wt","dbms"]
+satday=["python","java","java","cn","os","wt","dbms"]
+
